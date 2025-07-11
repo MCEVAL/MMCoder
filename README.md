@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <a href="https://mceval.github.io/">
+  <!--a href="https://mceval.github.io/">
     <img src="assets/icon.png" width="25%" alt="McEval" />
-  </a>
+</a-->
 </p>
 
 <hr>
