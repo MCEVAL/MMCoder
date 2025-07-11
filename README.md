@@ -30,7 +30,7 @@ Official repository for paper "Multilingual Multimodal Software Developer for Co
 <p align="left">
     <a href="https://huggingface.co/datasets/Multilingual-Multimodal-NLP/MMEval">📊 Benchmark Data </a> •
     <a href="https://huggingface.co/datasets/Multilingual-Multimodal-NLP/MMc-Instruct-Stage2">📚 Instruct Data </a> •
-    <a href="https://huggingface.co/datasets/Multilingual-Multimodal-NLP/MM-Coder-7B">🤗 MM-Coder </a> •
+    <a href="https://huggingface.co/Multilingual-Multimodal-NLP/MM-Coder-7B">🤗 MM-Coder-7B </a> •
     <a href="https://github.com/MCEVAL/MMCode">🐳 Evaluation Environment(Coming Soon) </a> 
 </p>
 
