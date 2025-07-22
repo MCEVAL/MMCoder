@@ -38,3 +38,23 @@ Official repository for paper "Multilingual Multimodal Software Developer for Co
 
 ## Introduction
 MMCODER is a multilingual multimodal software LLM that integrates visual design inputs (UML diagrams and flowcharts) with textual instructions to enhance code generation, supported by M2C-INSTRUCT, a diverse multimodal instruction-tuning dataset, and evaluated on M2-EVAL, a novel benchmark addressing the limitations of text-only code generation in capturing visual workflows.
+
+
+
+
+## Citation
+
+If you find our work helpful, feel free to give us a cite.
+
+```
+@misc{mmcoder,
+      title={Multilingual Multimodal Software Developer for Code Generation}, 
+      author={Linzheng Chai and Jian Yang and Shukai Liu and Wei Zhang and Liran Wang and Ke Jin and Tao Sun and Congnan Liu and Chenchen Zhang and Hualei Zhu and Jiaheng Liu and Xianjie Wu and Ge Zhang and Tianyu Liu and Zhoujun Li},
+      year={2025},
+      eprint={2507.08719},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.08719}, 
+}
+
+```
